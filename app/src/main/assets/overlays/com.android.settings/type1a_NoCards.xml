@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardview_light_background">#ff000000</color>
+    <color name="cardview_dark_background">#ff000000</color>
+    <color name="dashboard_background_color">#ff000000</color>
+    <color name="dashboard_category_background_color">#ff000000</color>
+    <color name="card_background">#ff000000</color>
+    <color name="exposed_bg_dark">#ff000000</color>
+    <color name="confirm_device_credential_dark_background">#ff000000</color>
+</resources>

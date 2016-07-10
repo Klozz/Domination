@@ -1,0 +1,31 @@
+<resources>
+    <!-- Theme Name (has to be used for the naming of the apk´s and zips too-->
+    <string name="ThemeName">Domination</string>
+
+    <!-- Name of the theme author -->
+    <string name="ThemeAuthor">daveyannihilation</string>
+
+    <!-- Short description of the theme -->
+    <string name="ThemeDescription">DOMINATION\n\nA beautiful dark theme with black backgrounds and darker than stock Material colours\n\nSome apps need to flash Theme Ready zips from here: http://forum.xda-developers.com/android/apps-games/apps-themeable-hangouts-layers-cmte-t3113192\n\nMms - Need to flash Theme Ready Mms from here: https://www.androidfilehost.com/?fid=24052804347853343</string>
+
+
+    <!-- Changelog -->
+    <string name="ThemeChangelog">* Added JuiceSSH \n\n* Google App: Fixed up missing cards text (thanks +Direktive 4), force close in Nicknames and unthemed Now on Tap icon\n\n* Hangouts: Fixed white dialog backgrounds\n\n* YouTube: Fixed some tiny text, white drawables and white background in Channels (thanks +Andrew Traynham)</string>
+
+
+    <!-- Names of the apps overlayed by a normal Overlay: Normal Overlays are the Overlays which are only available in one color -->
+    <!-- KEEP EMPTY IF YOU DONT HAVE ANY NORMAL OVERLAYS-->
+    <string name="NormalOverlayNames">Browser,Calculator,CellBroadcast,Chrome,ChromeBeta,ChromeDev,Chromium,Contacts,DeskClock,DeviceHandler,Dialer,DocumentsUI,Gmail,GoogleApp,GoogleCalculator,GoogleClock,GoogleContacts,GoogleDialer,GoogleKeyboard,GooglePackageInstaller,GooglePlus,GoogleVoice,Hangouts,Inbox,LatinIME,Launcher3,LayersManager,LockClock,MediaProvider,Messaging,Messenger,Mms,NovaLauncher,PackageInstaller,Photos,PlayMusic,PlayStore,PureNexusSettings,Settings,SuperSU,SystemUI,Telecom,TeleService,YouTube</string>
+
+
+
+    <!-- OPTIONAL: Names of apps overlayed by overlays available in different Styles (Style specific Overlays are Overlays which are available in for example different colors or different Styles)-->
+    <!-- KEEP EMPTY IF YOU DONT HAVE ANY STYLE SPECIFIC OVERLAYS-->
+    <string name="StyleSpecificOverlayNames">Framework</string>
+
+    <!-- OPTIONAL: Styles available for the stylespecific Overlays, for example the colors the Overlays are available in -->
+    <!-- KEEP EMPTY IF YOU DONT HAVE ANY STYLE SPECIFIC OVERLAYS-->
+    <string name="Styles">1Default,Blue,BlueGrey,Green,LightBlue,Lime,Orange,Red,Teal,White,Yellow</string>
+
+
+</resources>
