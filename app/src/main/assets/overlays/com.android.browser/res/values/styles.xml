@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="BrowserTheme" parent="@*android:style/Theme.Material">
-        <item name="android:colorBackground">#ff000000</item>
+        <item name="android:colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="android:windowBackground">@*android:color/background_dark</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
@@ -18,7 +18,7 @@
         <item name="android:colorAccent">#ff1976d2</item>
     </style>
     <style name="DialogWhenLarge" parent="@*android:style/Theme.Material.DialogWhenLarge">
-        <item name="android:popupBackground">#ff000000</item>
+        <item name="android:popupBackground">@*android:color/background_floating_material_dark</item>
         <item name="android:windowActionBar">false</item>
     </style>
     <style name="ActionBarStyle" parent="@*android:style/Theme.Material">
@@ -29,7 +29,7 @@
     <style name="Suggestions" parent="@*android:style/Widget.Material.AutoCompleteTextView">
         <item name="android:textColor">#ffffffff</item>
         <item name="android:textColorHint">#ffbbbbbb</item>
-        <item name="android:popupBackground">#ff000000</item>
+        <item name="android:popupBackground">@*android:color/background_floating_material_dark</item>
         <item name="android:dropDownVerticalOffset">0.0dip</item>
     </style>
     <style name="ActionBar" parent="@*android:style/Widget.ActionBar">

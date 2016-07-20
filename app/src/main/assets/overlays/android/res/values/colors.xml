@@ -16,11 +16,10 @@
     <color name="exposed_primary_text_dark">#ffffffff</color>
     <color name="exposed_secondary_text_dark">#ffdddddd</color>
     <color name="dslv_icon_dark">#ffffffff</color>
-    <color name="background_material_dark">#ff000000</color>
-    <color name="background_floating_material_dark">#ff000000</color>
-    <color name="holo_blue_light">#ffffffff</color>
-    <color name="holo_blue_dark">#ffffffff</color>
-    <color name="holo_blue_bright">#ffffffff</color>
+
+    <color name="holo_blue_light">@*android:color/accent_material_dark</color>
+    <color name="holo_blue_dark">@*android:color/accent_material_dark</color>
+    <color name="holo_blue_bright">@*android:color/accent_material_dark</color>
     <color name="micro_text_light">#ffdddddd</color>
     <color name="notification_icon_bg_color">#ff333333</color>
     <color name="notification_action_color_filter">#ffffffff</color>
@@ -38,11 +37,10 @@
     <color name="primary_material_dark">#ff111111</color>
     <color name="transparent">#00000000</color>
     <color name="exposed_notification_big_pic_bg">#cc000000</color>
-    <color name="exposed_resolver_list_bg">#ff000000</color>
+    <color name="exposed_resolver_list_bg">@*android:color/background_floating_material_dark</color>
     <color name="exposed_notify_action_text">#ffffffff</color>
-    <color name="background_dark">#ff000000</color>
-    <color name="background_leanback_dark">#ff000000</color>
-    <color name="background_leanback_light">#ff000000</color>
+
+    <color name="background_leanback_dark">@*android:color/background_dark</color>
     <color name="primary_text_leanback_dark">#ffffffff</color>
     <color name="secondary_text_leanback_dark">#ffdddddd</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
@@ -81,7 +79,7 @@
     <color name="datepicker_default_circle_background_color_material_dark">#ffffffff</color>
     <color name="datepicker_default_view_animator_color_material_light">#ff000000</color>
     <color name="datepicker_default_view_animator_color_material_dark">#ff000000</color>
-    <color name="resolver_list_bg">#ff000000</color>
+    <color name="resolver_list_bg">@*android:color/background_floating_material_dark</color>
     <color name="global_menu_icon">@*android:color/material_deep_teal_200</color>
     <color name="global_menu_icon_enabled">@*android:color/accent_material_dark</color>
     <color name="chooser_grid_bg">#ff000000</color>

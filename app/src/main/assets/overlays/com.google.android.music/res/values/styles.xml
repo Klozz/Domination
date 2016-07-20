@@ -5,7 +5,7 @@
         <item name="android:textColor">#ffffffff</item>
         <item name="android:ellipsize">marquee</item>
         <item name="android:gravity">center_vertical</item>
-        <item name="android:background">#ff111111</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
         <item name="android:paddingLeft">16.0dip</item>
         <item name="android:paddingRight">16.0dip</item>
         <item name="android:layout_width">fill_parent</item>
@@ -17,7 +17,7 @@
     <style name="PlayMediumPlainText" parent="@style/PlayPlainText" />
     <style name="PlayPlainText" />
     <style name="PlayDrawerList">
-        <item name="android:background">#ff111111</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
         <item name="android:fadingEdgeLength">0.0dip</item>
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">0.0dip</item>
@@ -38,7 +38,7 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
     <style name="ToolbarBackground">
-        <item name="android:background">#ff111111</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
         <item name="android:layout_width">fill_parent</item>
         <item name="android:layout_height">wrap_content</item>
     </style>
@@ -182,7 +182,7 @@
         <item name="android:layout_height">wrap_content</item>
     </style>
     <style name="PlaySearchPlate">
-        <item name="android:background">#ff000000</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
         <item name="android:paddingLeft">0.0dip</item>
         <item name="android:paddingRight">0.0dip</item>
         <item name="android:layout_width">fill_parent</item>
@@ -195,7 +195,7 @@
         <item name="android:textColorHint">#ffbbbbbb</item>
         <item name="android:ellipsize">end</item>
         <item name="android:layout_gravity">start|center</item>
-        <item name="android:background">#ff000000</item>
+        <item name="android:background">@*android:color/background_dark</item>
         <item name="android:paddingTop">11.0dip</item>
         <item name="android:paddingBottom">11.0dip</item>
         <item name="android:layout_width">fill_parent</item>
@@ -244,8 +244,8 @@
         <item name="android:paddingTop">4.0dip</item>
         <item name="android:paddingRight">4.0dip</item>
         <item name="android:paddingBottom">4.0dip</item>
-        <item name="android:backgroundTint">#ff111111</item>
-        <item name="playCardBackgroundColor">#ff111111</item>
+        <item name="android:backgroundTint">@*android:color/background_floating_material_dark</item>
+        <item name="playCardBackgroundColor">@*android:color/background_floating_material_dark</item>
         <item name="playCardCornerRadius">2.0dip</item>
         <item name="playCardElevation">2.0dip</item>
         <item name="playCardInset">4.0dip</item>

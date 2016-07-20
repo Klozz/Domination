@@ -7,7 +7,7 @@
         <item name="android:colorControlNormal">#ffffffff</item>
         <item name="android:colorControlActivated">#ff512da8</item>
         <item name="android:statusBarColor">#ff311b92</item>
-        <item name="android:backgroundTint">#ff000000</item>
+        <item name="android:backgroundTint">@*android:color/background_dark</item>
         <item name="android:backgroundTintMode">add</item>
         <item name="android:colorPrimary">#ff512da8</item>
         <item name="android:colorPrimaryDark">#ff311b92</item>

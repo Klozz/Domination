@@ -57,7 +57,6 @@
     <style name="Platform.AppCompat" parent="@*android:style/Theme">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
-        <item name="android:background">#ff000000</item>
         <item name="android:colorPrimary">#ff512da8</item>
         <item name="android:colorPrimaryDark">#ff311b92</item>
         <item name="android:colorAccent">#ff512da8</item>
@@ -65,7 +64,6 @@
     <style name="Platform.AppCompat.Light" parent="@*android:style/Theme">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
-        <item name="android:background">#ff000000</item>
         <item name="android:colorPrimary">#ff512da8</item>
         <item name="android:colorPrimaryDark">#ff311b92</item>
         <item name="android:colorAccent">#ff512da8</item>

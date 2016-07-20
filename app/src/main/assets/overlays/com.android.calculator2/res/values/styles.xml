@@ -37,7 +37,7 @@
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:colorPrimary">#ff006064</item>
         <item name="android:statusBarColor">#ff006064</item>
-        <item name="android:navigationBarColor">#ff000000</item>
+        <item name="android:navigationBarColor">@*android:color/background_dark</item>
     </style>
     <style name="DisplayEditTextStyle" parent="@*android:style/Widget.Material.EditText">
         <item name="android:gravity">end|bottom|center</item>

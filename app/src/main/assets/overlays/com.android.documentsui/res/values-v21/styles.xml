@@ -21,7 +21,7 @@
         <item name="android:colorPrimary">#ff111111</item>
         <item name="android:colorPrimaryDark">#ff000000</item>
         <item name="android:colorAccent">#ff787878</item>
-        <item name="android:backgroundTint">#ff000000</item>
+        <item name="android:backgroundTint">@*android:color/background_dark</item>
         <item name="android:actionBarPopupTheme">@*android:style/ThemeOverlay.Material.Dark</item>
     </style>
 </resources>

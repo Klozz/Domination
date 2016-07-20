@@ -25,7 +25,7 @@
     <color name="dslv_float_cackground_color">#ffffffff</color>
     <color name="dslv_float_background_color">#ffffffff</color>
     <color name="background_color_holo_blue_light">#ffffffff</color>
-    <color name="background_color_white">#ff000000</color>
+    <color name="background_color_white">@*android:color/background_dark</color>
     <color name="text_color_black">#ffffffff</color>
     <color name="text_color_holo_blue_light">#ffffffff</color>
     <color name="text_color_secondary_text_material_light">#ffdddddd</color>

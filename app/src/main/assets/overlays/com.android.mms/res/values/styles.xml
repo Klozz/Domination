@@ -68,7 +68,7 @@
         <item name="android:colorAccent">#ff388e3c</item>
     </style>
     <style name="HeaderTheme" parent="@*android:style/ThemeOverlay.Material.Dark.ActionBar">
-        <item name="android:colorBackground">#ff000000</item>
+        <item name="android:colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="android:spinnerDropDownItemStyle">@style/HeaderSpinnerDropDown</item>
         <item name="android:colorAccent">#ffffffff</item>
         <item name="android:popupTheme">@*android:style/ThemeOverlay.Material</item>

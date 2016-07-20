@@ -7,7 +7,7 @@
     <style name="Platform.AppCompat" parent="@*android:style/Theme.Material">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
-        <item name="android:backgroundTint">#ff000000</item>
+        <item name="android:backgroundTint">@*android:color/background_dark</item>
         <item name="android:backgroundTintMode">add</item>
         <item name="android:colorPrimary">#ff512da8</item>
         <item name="android:colorPrimaryDark">#ff311b92</item>
@@ -16,7 +16,7 @@
     <style name="Platform.AppCompat.Light" parent="@*android:style/Theme.Material">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
-        <item name="android:backgroundTint">#ff000000</item>
+        <item name="android:backgroundTint">@*android:color/background_dark</item>
         <item name="android:backgroundTintMode">add</item>
     </style>
 </resources>

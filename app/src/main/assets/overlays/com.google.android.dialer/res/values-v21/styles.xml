@@ -20,7 +20,7 @@
         <item name="android:colorControlActivated">#ff1976d2</item>
         <item name="android:colorPrimary">#ff1976d2</item>
         <item name="android:colorPrimaryDark">#ff0d47a1</item>
-        <item name="android:colorBackground">#ff000000</item>
+        <item name="android:colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="android:colorForeground">#ff111111</item>
     </style>
 </resources>

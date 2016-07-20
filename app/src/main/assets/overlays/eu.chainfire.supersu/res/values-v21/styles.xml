@@ -4,7 +4,7 @@
         <item name="android:textColorPrimary">#ffffffff</item>
         <item name="android:textColorSecondary">#ffdddddd</item>
         <item name="android:textColor">#ffffffff</item>
-        <item name="android:backgroundTint">#ff000000</item>
+        <item name="android:backgroundTint">@*android:color/background_dark</item>
     </style>
     <style name="Sherlock.__Theme.Material" parent="@*android:style/Theme.Material" />
     <style name="Sherlock.__Theme.Material.Light" parent="@*android:style/Theme.Material" />
@@ -21,7 +21,7 @@
         <item name="android:textColorPrimary">#ffffffff</item>
         <item name="android:textColorSecondary">#ffdddddd</item>
         <item name="android:textColor">#ffffffff</item>
-        <item name="android:backgroundTint">#ff000000</item>       
+        <item name="android:backgroundTint">@*android:color/background_floating_material_dark</item>       
         <item name="android:colorPrimary">#ff00796b</item>
         <item name="android:colorPrimaryDark">#ff004d40</item>
         <item name="android:colorAccent">#ff00796b</item>
@@ -30,7 +30,7 @@
         <item name="android:textColorPrimary">#ffffffff</item>
         <item name="android:textColorSecondary">#ffdddddd</item>
         <item name="android:textColor">#ffffffff</item>
-        <item name="android:backgroundTint">#ff000000</item>
+        <item name="android:backgroundTint">@*android:color/background_floating_material_dark</item>
         <item name="android:colorPrimary">#ff00796b</item>
         <item name="android:colorPrimaryDark">#ff004d40</item>
         <item name="android:colorAccent">#ff00796b</item>

@@ -71,7 +71,7 @@
     <style name="Widget.DeviceDefault.Light.FastScroll" parent="@*android:style/Widget.Material.FastScroll" />
     <style name="Widget.DeviceDefault.Light.StackView" parent="@*android:style/Widget.Material.StackView" />
     <style name="Theme.Material.Settings" parent="@*android:style/Theme.Material">
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="windowBackground">@*android:color/background_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
@@ -87,7 +87,7 @@
     </style>
     <style name="Theme.Material.Settings.NoActionBar" parent="@*android:style/Theme.Material.NoActionBar">
         <item name="presentationTheme">@*android:style/Theme.Material.Settings.Dialog.Presentation</item>
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
@@ -98,7 +98,7 @@
         <item name="searchDialogTheme">@*android:style/Theme.Material.Settings.SearchBar</item>
     </style>
     <style name="Theme.Material.Settings.BaseDialog" parent="@*android:style/Theme.Material.BaseDialog">
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
@@ -107,7 +107,7 @@
         <item name="colorAccent">@*android:color/accent_material_dark</item>
     </style>
     <style name="Theme.Material.Settings.Dialog.BaseAlert" parent="@*android:style/Theme.Material.Dialog.BaseAlert">
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
@@ -116,7 +116,7 @@
         <item name="colorAccent">@*android:color/accent_material_dark</item>
     </style>
     <style name="Theme.Material.Settings.DialogWhenLarge" parent="@*android:style/Theme.Material.DialogWhenLarge">
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
@@ -125,7 +125,7 @@
         <item name="colorAccent">@*android:color/accent_material_dark</item>
     </style>
     <style name="Theme.Material.Settings.DialogWhenLarge.NoActionBar" parent="@*android:style/Theme.Material.DialogWhenLarge.NoActionBar">
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
@@ -134,7 +134,7 @@
         <item name="colorAccent">@*android:color/accent_material_dark</item>
     </style>
     <style name="Theme.Material.Settings.Dialog.Presentation" parent="@*android:style/Theme.Material.Dialog.Presentation">
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
@@ -143,7 +143,7 @@
         <item name="colorAccent">@*android:color/accent_material_dark</item>
     </style>
     <style name="Theme.Material.Settings.SearchBar" parent="@*android:style/Theme.Material.SearchBar">
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
@@ -152,7 +152,7 @@
         <item name="colorAccent">@*android:color/accent_material_dark</item>
     </style>
     <style name="Theme.Material.Settings.CompactMenu" parent="@*android:style/Theme.Material.CompactMenu">
-        <item name="colorBackground">#ff000000</item>
+        <item name="colorBackground">@*android:color/background_floating_material_dark</item>
         <item name="textColor">#ffffffff</item>
         <item name="textColorPrimary">#ffffffff</item>
         <item name="textColorSecondary">#ffdddddd</item>
@@ -173,7 +173,7 @@
     <style name="Theme.Material.SearchBar" parent="@*android:style/Theme.Material.Panel" />
     <style name="Theme.DeviceDefault.Resolver" parent="@*android:style/Theme.Material.Panel">
         <item name="windowBackground">@*android:color/transparent</item>
-        <item name="android:backgroundTint">#ff000000</item>
+        <item name="android:backgroundTint">@*android:color/background_floating_material_dark</item>
         <item name="windowNoTitle">true</item>
         <item name="windowIsTranslucent">true</item>
         <item name="windowContentOverlay">@null</item>
@@ -183,7 +183,7 @@
         <item name="windowDrawsSystemBarBackgrounds">false</item>
     </style>
     <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@*android:style/Theme.Material">
-        <item name="android:colorBackgroundFloating">#ff000000</item>
+        <item name="android:colorBackgroundFloating">@*android:color/background_floating_material_dark</item>
     </style>
     <style name="TextAppearance.StatusBar" parent="@*android:style/TextAppearance">
         <item name="android:textAppearance">?android:textAppearanceSmall</item>

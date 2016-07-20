@@ -161,7 +161,7 @@
 
     <style name="PreviewOpenInAnotherApp_container">
         <item name="android:layout_gravity">center</item>
-        <item name="android:background">#ff000000</item>
+        <item name="android:background">@*android:color/background_dark</item>
         <item name="android:padding">16.0dip</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
@@ -171,7 +171,7 @@
 
 
     <style name="RecentEventCard">
-        <item name="android:background">#ff111111</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
         <item name="android:paddingLeft">10.0dip</item>
         <item name="android:paddingTop">10.0dip</item>
         <item name="android:paddingRight">10.0dip</item>
@@ -203,11 +203,11 @@
     </style>
 
     <style name="Widget.Design.AppBarLayout" parent="@*android:style/Widget">
-        <item name="android:background">#ff111111</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
         <item name="elevation">4.0dip</item>
     </style>
     <style name="Widget.Design.BottomSheet.Modal" parent="@*android:style/Widget">
-        <item name="android:background">#ff111111</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
         <item name="behavior_peekHeight">256.0dip</item>
         <item name="behavior_hideable">true</item>
     </style>

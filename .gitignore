@@ -16,3 +16,5 @@ captures/
 .idea/workspace.xml
 .idea/libraries
 *.jks
+.gitignore
+.idea/
