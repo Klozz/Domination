@@ -192,10 +192,10 @@
     <color name="people_and_options_header_text">#ffffffff</color>
     <color name="people_and_options_list_divider">#ffaaaaaa</color>
     <color name="fab_color">#ff388e3c</color>
-    <color name="fab_pressed_color">#ff0288d1</color>
+    <color name="fab_pressed_color">#ff4caf50</color>
     <color name="fab_ripple">#40ffffff</color>
     <color name="message_text_counter_color">#ffdddddd</color>
-    <color name="mms_indicator_color">#ff0288d1</color>
+    <color name="mms_indicator_color">#ff4caf50</color>
     <color name="list_empty_text">#ffdddddd</color>
     <color name="low_storage_action_item_color">#ffffffff</color>
     <color name="unblock_item_text_color">#ff388e3c</color>

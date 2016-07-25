@@ -323,4 +323,9 @@
     <color name="gallery_camera_buttons_font_color">#ffffffff</color>
     <color name="mdx_description_background">@*android:color/background_floating_material_dark</color>
     <color name="video_dismissal_related_video_text">#ffcccccc</color>
+    <!-- New with 11.27.53 -->
+    <color name="button_ripple_color">#4fffffff</color>
+    <color name="chat_text_item_bg_color">#b3000000</color>
+    <color name="mdx_status_bar_color">#00000000</color>
+    <color name="sponsor_text_item_bg_color">@*android:color/background_floating_material_dark</color>
 </resources>

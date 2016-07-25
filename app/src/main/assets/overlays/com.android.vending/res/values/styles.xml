@@ -13,7 +13,7 @@
         <item name="gap">2.0dip</item>
     </style>
     <style name="PlaySearchPlate">
-        <item name="android:background">#ff222222</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
         <item name="android:paddingLeft">0.0dip</item>
         <item name="android:paddingRight">0.0dip</item>
     </style>

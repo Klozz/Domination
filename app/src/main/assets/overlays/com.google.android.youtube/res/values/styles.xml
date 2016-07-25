@@ -303,4 +303,7 @@
     <style name="Widget.MediaRouter.ControllerText.Title.Light" parent="@style/Widget.MediaRouter.ControllerText.Title">
         <item name="android:textColor">#ffffffff</item>
     </style>
+    <style name="GvrDialogTheme" parent="@*android:style/Theme.Holo.Dialog">
+        <item name="android:windowBackground">@*android:color/transparent</item>
+    </style>
 </resources>

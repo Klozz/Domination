@@ -8,7 +8,7 @@
     <color name="acl_chip_view_collexion_text_color">#ffffffff</color>
     <color name="acl_circle_chip_color">@*android:color/background_floating_material_dark</color>
     <color name="acl_circle_color">#ff1976d2</color>
-    <color name="acl_circle_empty_color">#ff2196f3</color>
+    <color name="acl_circle_empty_color">#ff1976d2</color>
     <color name="acl_collexion_color">#ff512da8</color>
     <color name="acl_extended_circles_color">#ff1b5e20</color>
     <color name="acl_header_view_background">#ff111111</color>
@@ -60,7 +60,7 @@
     <color name="black_12">#1faaaaaa</color>
     <color name="blue_4">#ff1976d2</color>
     <color name="blue_button_ripple">#4dffffff</color>
-    <color name="blue_separator">#ff2196f3</color>
+    <color name="blue_separator">#ff1976d2</color>
     <color name="bright_foreground_disabled_material_light">#80ffffff</color>
     <color name="bright_foreground_material_dark">#ffffffff</color>
     <color name="bright_foreground_material_light">#ffffffff</color>
@@ -80,8 +80,8 @@
     <color name="cardview_light_background">@*android:color/background_floating_material_dark</color>
     <color name="cloud_aam_promo_bg">#ff1976d2</color>
     <color name="collexion_learn_more_button_bg">#ff222222</color>
-    <color name="collexion_learn_more_create_collexion_bg">#ff2196f3</color>
-    <color name="collexion_learn_more_illustration_page_bg">#ff2196f3</color>
+    <color name="collexion_learn_more_create_collexion_bg">#ff1976d2</color>
+    <color name="collexion_learn_more_illustration_page_bg">#ff1976d2</color>
     <color name="commenter_indicator">#ff1976d2</color>
     <color name="common_action_bar_splitter">#ffaaaaaa</color>
     <color name="common_signin_btn_dark_text_default">#ffffffff</color>
@@ -135,7 +135,7 @@
     <color name="friend_locations_divider">#ffaaaaaa</color>
     <color name="friend_locations_grey_text">#ffbbbbbb</color>
     <color name="friend_locations_link">#ff1976d2</color>
-    <color name="friend_locations_list_title">#ff2196f3</color>
+    <color name="friend_locations_list_title">#ff1976d2</color>
     <color name="friend_locations_location_background">@*android:color/background_dark</color>
     <color name="friend_locations_onboarding_a_background">#ff0097a7</color>
     <color name="friend_locations_onboarding_b_background">#ffd32f2f</color>
@@ -178,8 +178,8 @@
     <color name="locations_widget_empty_view_background">#88000000</color>
     <color name="locations_widget_item_background">@*android:color/background_dark</color>
     <color name="main_background">@*android:color/background_dark</color>
-    <color name="map_circle_fill">#222196f3</color>
-    <color name="map_circle_stroke">#ff2196f3</color>
+    <color name="map_circle_fill">#221976d2</color>
+    <color name="map_circle_stroke">#ff1976d2</color>
     <color name="material_blue_grey_800">@*android:color/background_floating_material_dark</color>
     <color name="material_blue_grey_900">@*android:color/background_dark</color>
     <color name="material_blue_grey_950">@*android:color/background_dark</color>
@@ -238,10 +238,10 @@
     <color name="play_fg_tabs">#ffffffff</color>
     <color name="poll_divider">#ffaaaaaa</color>
     <color name="poll_option_image_separator_background_color">@*android:color/background_dark</color>
-    <color name="poll_option_percent_bar_background_color">#ff2196f3</color>
+    <color name="poll_option_percent_bar_background_color">#ff1976d2</color>
     <color name="poll_option_stacked_image_background_color">@*android:color/background_dark</color>
     <color name="poll_option_title_black_background_color">@*android:color/background_dark</color>
-    <color name="poll_option_title_blue_background_color">#ff2196f3</color>
+    <color name="poll_option_title_blue_background_color">#ff1976d2</color>
     <color name="poll_vote_count_text_color">#ffffffff</color>
     <color name="poll_vote_count_text_color_host_one_up">#ff1976d2</color>
     <color name="preset_list_item_selected">#ff1976d2</color>
@@ -310,7 +310,7 @@
     <color name="sharekit_text_normal">#ffffffff</color>
     <color name="square_blocking_explanation_background">@*android:color/background_dark</color>
     <color name="square_card_divider">#ffaaaaaa</color>
-    <color name="square_green_dark">#ff388e3c</color>
+    <color name="square_green_dark">#ff1b5e20</color>
     <color name="square_green_light">#ff388e3c</color>
     <color name="square_loading_image_background">#ff388e3c</color>
     <color name="square_moderator_badge_color">#ff388e3c</color>

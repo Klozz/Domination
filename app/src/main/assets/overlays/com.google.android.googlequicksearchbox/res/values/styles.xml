@@ -104,10 +104,10 @@
         <item name="android:textColor">#ffdddddd</item>
     </style>
     <style name="SearchPlate">
-        <item name="android:background">@*android:color/background_dark</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
     </style>
     <style name="SearchPlate.SearchBox" parent="@*android:style/Widget.EditText">
-        <item name="android:background">@*android:color/background_dark</item>
+        <item name="android:background">@*android:color/background_floating_material_dark</item>
     </style>
     <style name="AccountsSwitcher" />
     <style name="AccountsSwitcher.OwnersListItemStyle" parent="@style/AccountsSwitcher">
