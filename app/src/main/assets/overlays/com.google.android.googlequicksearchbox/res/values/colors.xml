@@ -584,6 +584,7 @@
     <color name="toggle_undo_icon">#61ffffff</color>
     <color name="info_module_background">#08000000</color>
     <color name="departure_info_module_background">#ff222222</color>
+    <color name="closet_activity_background">@*android:color/background_dark</color>
     <color name="go_to_google_now_background">@*android:color/background_floating_material_dark</color>
     <color name="go_to_google_now_background_ripple">#4dffffff</color>
     <color name="assist_beta_branding_background_color">#33000000</color>
