@@ -12,6 +12,7 @@
     <color name="all_apps_search_market_button_focused_bg_color">#ff777777</color>
     <color name="widgets_view_section_text_color">#ffffffff</color>
     <color name="widgets_view_item_text_color">#ffdddddd</color>
+    <color name="place_autocomplete_prediction_primary_text">#ffffffff</color>
     <color name="widgets_cell_color">@*android:color/background_dark</color>
     <color name="common_signin_btn_dark_text_default">#ffffffff</color>
     <color name="common_signin_btn_dark_text_pressed">#ffffffff</color>

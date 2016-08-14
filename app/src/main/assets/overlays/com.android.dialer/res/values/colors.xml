@@ -4,6 +4,7 @@
     <color name="cardview_dark_background">@*android:color/background_floating_material_dark</color>
     <color name="dialer_theme_color">#ff1976d2</color>
     <color name="dialer_theme_color_dark">#ff0d47a1</color>
+    <color name="background_dialer_call_log_list_item">@*android:color/background_floating_material_dark</color>
     <color name="background_dialpad">@*android:color/background_dark</color>
     <color name="background_dialpad_pressed">#ff555555</color>
     <color name="dialpad_primary_text_color">#ff1976d2</color>
