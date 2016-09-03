@@ -22,8 +22,8 @@
     <color name="background_floating_material_light">@*android:color/background_floating_material_dark</color>
     <color name="primary_material_dark">#ff512da8</color>
     <color name="primary_material_light">#ff512da8</color>
-    <color name="primary_dark_material_dark">#ff311b92</color>
-    <color name="primary_dark_material_light">#ff311b92</color>
+    <color name="primary_dark_material_dark">#ff000000</color>
+    <color name="primary_dark_material_light">#ff000000</color>
     <color name="ripple_material_dark">#42ffffff</color>
     <color name="ripple_material_light">#42ffffff</color>
     <color name="accent_material_light">#ff512da8</color>
@@ -55,7 +55,7 @@
     <color name="material_grey_900">#ff512da8</color>
     <color name="material_grey_850">@*android:color/background_dark</color>
     <color name="material_grey_800">@*android:color/background_floating_material_dark</color>
-    <color name="material_grey_600">#ff311b92</color>
+    <color name="material_grey_600">#ff000000</color>
     <color name="material_grey_300">#ffe0e0e0</color>
     <color name="material_grey_100">#ff512da8</color>
     <color name="material_grey_50">@*android:color/background_dark</color>
@@ -113,7 +113,7 @@
     <color name="clock_white">#ffffffff</color>
     <color name="clock_gray">#b3ffffff</color>
     <color name="default_background">#ff000000</color>
-    <color name="status_bar">#ff311b92</color>
+    <color name="status_bar">#ff000000</color>
     <color name="notif_text_grey">#ffffffff</color>
     <color name="control_highlight_color">#42ffffff</color>
     <color name="notification_bg">@*android:color/background_dark</color>

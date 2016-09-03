@@ -100,4 +100,10 @@
     <color name="lb_guidedactions_background">@*android:color/background_floating_material_dark</color>
     <color name="lb_guidedactions_selector_color">#26ffffff</color>
     <color name="lb_guidedactions_item_unselected_text_color">#ffdddddd</color>
+
+
+    <color name="disabled_text_color">#66ffffff</color>
+    <color name="usage_graph_dots">@*android:color/accent_material_dark</color>
+    <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
+
 </resources>

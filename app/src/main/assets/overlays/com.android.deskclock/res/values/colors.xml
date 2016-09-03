@@ -91,7 +91,7 @@
     <color name="clock_white">#ffffffff</color>
     <color name="clock_gray">#b3ffffff</color>
     <color name="default_background">@*android:color/background_dark</color>
-    <color name="status_bar">#ff311b92</color>
+    <color name="status_bar">#ff000000</color>
     <color name="time_picker_gray">#ff111111</color>
     <color name="notif_text_grey">#ffffffff</color>
     <color name="notification_bg">#ff000000</color>

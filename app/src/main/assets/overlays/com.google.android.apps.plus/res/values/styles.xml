@@ -53,4 +53,6 @@
     <style name="Theme.EmeraldSea.Dialog" parent="@*android:style/Theme.Material.Dialog" />
     <style name="Theme.EmeraldSea.Preference.Dialog" parent="@*android:style/Theme.Material.Dialog" />
     <style name="Theme.Settings" parent="@*android:style/Theme.Material" />
+
+    <style name="UrawTheme" parent="@*android:style/Theme.Holo" />
 </resources>

@@ -5,9 +5,9 @@
         <item name="android:popupMenuStyle">?android:actionOverflowMenuStyle</item>
         <item name="android:colorControlNormal">#ffffffff</item>
         <item name="android:colorControlActivated">#ff512da8</item>
-        <item name="android:statusBarColor">#ff311b92</item>
+        <item name="android:statusBarColor">#ff000000</item>
         <item name="android:colorPrimary">#ff512da8</item>
-        <item name="android:colorPrimaryDark">#ff311b92</item>
+        <item name="android:colorPrimaryDark">#ff000000</item>
         <item name="android:colorAccent">#ff512da8</item>
     </style>
     <style name="AlarmSwitchTheme">
@@ -16,7 +16,7 @@
     <style name="DeskClock" parent="@style/DeskClockParentTheme">
         <item name="android:windowActionBarOverlay">true</item>
         <item name="android:colorPrimary">#ff512da8</item>
-        <item name="android:colorPrimaryDark">#ff311b92</item>
+        <item name="android:colorPrimaryDark">#ff000000</item>
         <item name="android:colorAccent">#ff512da8</item>
     </style>
     <style name="FastScrollStyle" parent="@*android:style/Widget.Material.FastScroll">
@@ -58,14 +58,14 @@
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:colorPrimary">#ff512da8</item>
-        <item name="android:colorPrimaryDark">#ff311b92</item>
+        <item name="android:colorPrimaryDark">#ff000000</item>
         <item name="android:colorAccent">#ff512da8</item>
     </style>
     <style name="Platform.AppCompat.Light" parent="@*android:style/Theme">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:colorPrimary">#ff512da8</item>
-        <item name="android:colorPrimaryDark">#ff311b92</item>
+        <item name="android:colorPrimaryDark">#ff000000</item>
         <item name="android:colorAccent">#ff512da8</item>
     </style>
 </resources>

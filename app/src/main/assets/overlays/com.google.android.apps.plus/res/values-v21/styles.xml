@@ -55,4 +55,8 @@
         <item name="colorControlHighlight">#4dffffff</item>
         <item name="colorControlNormal">#ffffffff</item>
     </style>
+
+    <style name="UrawTheme" parent="@*android:style/Theme.Material">
+       <item name="android:colorControlActivated">#ff1976d2</item>
+    </style>
 </resources>
