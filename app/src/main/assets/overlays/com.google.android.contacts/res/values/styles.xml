@@ -78,4 +78,25 @@
         <item name="android:colorPrimaryDark">#ff0d47a1</item>
         <item name="android:colorAccent">#ff1976d2</item>
     </style>
+
+
+    <style name="EditKindTextAppearanceStyle" parent="@*android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffdddddd</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="EmptyStateTextStyle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:alpha">0.54</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="SingleLineTextStyle">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
 </resources>
