@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="dim_foreground_light">#ff333333</color>
+    <color name="dim_foreground_light">#ff555555</color>
     <color name="material_grey_900">#ff111111</color>
     <color name="material_grey_850">#ff000000</color>
     <color name="material_grey_800">#ff000000</color>
@@ -123,4 +123,5 @@
     <color name="holo_control_activated">@*android:color/accent_material_dark</color>
     <color name="holo_light_control_activated">@*android:color/accent_material_dark</color>
     <color name="accessibility_focus_highlight">@*android:color/accent_material_dark</color>
+    <color name="sender_text_color">#ffffffff</color>
 </resources>

@@ -42,4 +42,10 @@
     </style>
     <style name="ListViewStyle" parent="@*android:style/Widget.Material.ListView" />
     <style name="ContactListFilterTheme" parent="@*android:style/Theme.Material" />
+
+
+    <style name="CardView">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="ContactsActionBarOverflow" parent="@*android:style/Widget.Material.ActionButton.Overflow" />
 </resources>

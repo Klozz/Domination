@@ -3,8 +3,8 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <selector>
-            <item android:state_checked="true" android:drawable="@*android:color/system_notification_accent_color" />
-            <item android:drawable="@*android:color/system_notification_accent_color" android:state_activated="true" />
+            <item android:state_checked="true" android:drawable="@*android:color/dim_foreground_light" />
+            <item android:drawable="@*android:color/dim_foreground_light" android:state_activated="true" />
             <item android:drawable="@*android:color/background_dark" />
         </selector>
     </item>

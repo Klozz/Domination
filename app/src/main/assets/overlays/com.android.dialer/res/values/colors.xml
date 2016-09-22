@@ -156,4 +156,17 @@
     <color name="exposed_floating_action_button_solid">#ff1976d2</color>
     <color name="exposed_recents_list_footer_bg">@*android:color/background_dark</color>
     <color name="exposed_dialpad_fragment">#00000000</color>
+
+
+    <color name="promo_card_header_text_color">#ffffffff</color>
+    <color name="promo_card_details_text_color">#ffdddddd</color>
+    <color name="back_arrow_icon_tint_color">#ffffffff</color>
+    <color name="call_log_primary_color">#deffffff</color>
+    <color name="call_log_detail_color">#8affffff</color>
+    <color name="call_log_voicemail_transcript_color">#deffffff</color>
+    <color name="call_log_action_color">#b3ffffff</color>
+    <color name="call_log_day_group_heading_color">#8affffff</color>
+    <color name="call_log_unread_text_color">#deffffff</color>
+    <color name="blocked_number_background">@*android:color/background_dark</color>
+    <color name="promo_card_text">#ffffffff</color>
 </resources>

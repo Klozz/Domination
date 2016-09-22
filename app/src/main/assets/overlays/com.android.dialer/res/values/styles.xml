@@ -61,4 +61,9 @@
         <item name="android:singleLine">true</item>
         <item name="android:textAllCaps">true</item>
     </style>
+
+
+    <style name="DialtactsActionBarOverflow" parent="@*android:style/Widget.Material.ActionButton.Overflow" />
+    <style name="DialtactsActionBarOverflowWhite" parent="@*android:style/Widget.Material.ActionButton.Overflow" />
+    <style name="DialtactsActionBarTabTextStyle" parent="@*android:style/Widget.Material.ActionBar.TabText" />
 </resources>

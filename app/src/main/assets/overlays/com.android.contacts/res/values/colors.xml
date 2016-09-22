@@ -103,4 +103,12 @@
     <color name="exposed_ContactsActionBarTheme_text">#ffffffff</color>
     <color name="exposed_SectionDivider">#ffaaaaaa</color>
     <color name="exposed_EditKindTextAppearanceStyle">#ffffffff</color>
+    <color name="call_log_primary_color">#ffffffff</color>
+    <color name="call_log_detail_color">#ffffffff</color>
+
+
+    <color name="shortcut_overlay_text_background">#7fffffff</color>
+    <color name="contact_list_name_text_color">#ffffffff</color>
+    <color name="dialtacts_primary_text_color">#ffffffff</color>
+    <color name="frequently_contacted_title_color">#ffffffff</color>
 </resources>
